@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleTimerAndroidApp</string>
+
+    <string name="remaining_time">%d : %d : %d</string>
+    <string name="remaining_time_non_minutes">%d : %d</string>
+    <string name="timer_expired_info">The timer has expired</string>
+</resources>
